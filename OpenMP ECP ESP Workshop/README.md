@@ -1,6 +1,7 @@
 #ESP Training Series: Performance Tuning with OpenMP 4.5 and 5.0
 
 Presented on June 18th 2019
+
 https://www.eventbrite.com/e/esp-training-series-performance-tuning-with-openmp-45-and-50-registration-62171203744
 
 ## How to compile the examples 
