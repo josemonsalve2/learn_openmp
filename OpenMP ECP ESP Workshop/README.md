@@ -1,4 +1,4 @@
-#ESP Training Series: Performance Tuning with OpenMP 4.5 and 5.0
+# ESP Training Series: Performance Tuning with OpenMP 4.5 and 5.0
 
 Presented on June 18th 2019
 
